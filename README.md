@@ -1,5 +1,9 @@
 # Lilith Swisseph Calculator
 
+## 授權 License
+
+本專案採用 GNU Affero General Public License v3.0 (AGPL-3.0-only) 授權條款。
+
 本專案是一個基於 Node.js 的星座換算與伺服器應用，並使用 swisseph 進行天文運算。專案內含：
 - `index.js`：伺服器啟動與星座換算主程式
 - `date.js`：負責日期計算的輔助模組
@@ -29,7 +33,7 @@
 
 - 根據輸入日期與時間計算星座
 - 提供 HTTP API 伺服器介面
-- 所有天文計算皆依賴 [swisseph](https://github.com/andrmoel/node-sweph) 函式庫
+- 所有天文計算皆依賴 [swisseph](https://github.com/arturania/swisseph) 函式庫
 
 ## swisseph 授權說明 (AGPL-3.0)
 

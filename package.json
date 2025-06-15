@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Nelson Chen <annchen1982@gmail.com>",
+  "license": "AGPL-3.0-only",
   "description": "",
   "dependencies": {
     "body-parser": "^2.2.0",

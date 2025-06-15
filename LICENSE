@@ -1,26 +1,21 @@
-GNU AFFERO GENERAL PUBLIC LICENSE
-Version 3, 19 November 2007
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
-Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 
-本專案採用 AGPL-3.0 授權，您可自由使用、修改、散布本程式碼，但必須遵守下列條款：
+                            Preamble
 
-1. 若您修改本程式並於網路上提供服務，必須公開完整原始碼（包括您所做的修改）。
-2. 散布本程式時，必須附帶本授權文件。
-3. 任何衍生作品必須採用相同授權。
+ The GNU Affero General Public License is a free, copyleft license for
+ software and other kinds of works, specifically designed to ensure
+ cooperation with the community in the case of network server software.
 
-完整授權條款請參考：
-https://www.gnu.org/licenses/agpl-3.0.html
+ [完整 AGPL-3.0 條文請見 https://www.gnu.org/licenses/agpl-3.0.txt ]
+
+（如需完整英文原文，請直接參考官方連結。此處僅摘要開頭，避免 LICENSE 檔案過長。建議於專案中附上官方全文或直接複製官方條文。）
 
 ----
 
-GNU AFFERO GENERAL PUBLIC LICENSE
-Version 3, 19 November 2007
-
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
-Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
-
-（以下為英文原文授權條款）
-
-<全文請見 https://www.gnu.org/licenses/agpl-3.0.txt >
+This project is licensed under the terms of the GNU Affero General Public License v3.0. For the full license text, please visit:
+https://www.gnu.org/licenses/agpl-3.0.txt
